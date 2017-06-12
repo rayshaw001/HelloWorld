@@ -3,6 +3,7 @@ class Test{
 		System.out.println("hello world again");	
 		System.out.println("hello from git again");	
 		System.out.println("hello from git again seems ok");
+		System.out.println("hello from git again seems fine");	
 		System.out.println("hello from git again seems fine");			
 	}
 }
